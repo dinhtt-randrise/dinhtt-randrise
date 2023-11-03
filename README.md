@@ -1,16 +1,21 @@
-### Hi there 👋
+```
+     _ _       _     _   _   
+    | (_)     | |   | | | |  
+  __| |_ _ __ | |__ | |_| |_ 
+ / _` | | '_ \| '_ \| __| __|
+| (_| | | | | | | | | |_| |_ 
+ \__,_|_|_| |_|_| |_|\__|\__| @ randrise.com
 
-<!--
-**dinhtt-randrise/dinhtt-randrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------
+    Dinh Thoai Tran @ randrise.com
+--------------------------------------------
 
-Here are some ideas to get you started:
+============================================
+            LOOKING FOR ...
+  ---------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Data Engineer
+
++ Remote or nearby Ho Chi Minh city, Vietnam
+
+```
