@@ -14,7 +14,7 @@
             LOOKING FOR ...
   ---------------------------------------
 
-+ Data Engineer position
++ Machine Learning Engineer position
 
 + Remote or nearby Ho Chi Minh city, Vietnam
 
