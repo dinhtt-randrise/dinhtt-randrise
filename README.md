@@ -36,7 +36,7 @@
 ‘Topic Modelling’, ‘Entity Resolution’, ‘Tagging’, etc.
 
 + Develop K-Admin which manage configuration, provide admin level tasks 
-ifor Klaver 2 ( https://klaver.online )
+for Klaver 2 ( https://klaver.online )
 
 ==> Senior Salesforce Developer @ Transcosmos Technologic Arts  %  Jun 2017 - Jan 2018 <==
 
