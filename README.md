@@ -38,5 +38,49 @@
 + Develop K-Admin which manage configuration, provide admin level tasks 
 ifor Klaver 2 ( https://klaver.online )
 
+==> Senior Salesforce Developer @ Transcosmos Technologic Arts  %  Jun 2017 - Jan 2018 <==
+
++ Configured and gained experience in Service Cloud (LiveAgent, Call Center,
+Voice Chatbot, Email & Chatter Channels, etc.), Sales Cloud,
+Community Cloud, Pardot
+
+==> Consultant @ Capgemini Vietnam  %  Oct 2016 - Jun 2017 <==
+
++ Hold “Salesforce Certified Platform App Builder”, “
+Salesforce Certified Platform Developer I”,
+“Salesforce Certified Administrator” certifications.
+
+==> Java Developer @ Athena Pros  %  May 2010 - Jul 2016 <==
+
++ Developed EscapeNotes, a complex tool for migrating data from Lotus Notes
+to Salesforce and Azure Search. Gained experience in java programming,
+migrating problems, search engine building, Lotus Notes API, Salesforce API
+and Azure Search API.
+
++ Developed CommitKeeper, a Salesforce application for project management.
+
+==> Programmer @ Data Design Vietnam  %  Jul 2007 - Sep 2008 <==
+
++ Developed export function of CoFieu, a financial web tool with
+portfolio management, stock pricing.
+
++ Developed a module which transfer data from SharePoint site to
+Excel file (Cosmo Engineering project)
+
++ Developed an Outlook addin which check email suffix before
+sending (Kimado - MailGO)
+
++ Gained experience in programming C# with test driven development (TDD)
+
+==> Programmer @ Asia Pacific Solutions  %  Jan 2005 - Apr 2007 <==
+
++ Developed search and import function of SPACE-Doc,
+a Japanese document management system
+
++ Fixed bugs in main form (a most complex one of application) of SPACE-Doc
+
++ Work onsite in Osaka, Japan and customize SPACE-Doc for Sougo Sharyou customer
+
++ Gained experience in programming in VB.NET for complex application
 
 ```
