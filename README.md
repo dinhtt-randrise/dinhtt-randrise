@@ -91,4 +91,13 @@ a Japanese document management system
 
 + Gained experience in programming in VB.NET for complex application
 
+
+============================================
+               EDUCATION
+  ---------------------------------------
+
+
+==> Diploma of IT (Software Development) @ Victoria University  %  2001 - 2004 <==
+
+
 ```
