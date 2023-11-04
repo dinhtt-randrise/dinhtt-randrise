@@ -26,4 +26,17 @@
 
 + Remote or nearby Ho Chi Minh city, Vietnam
 
+============================================
+              EXPERIENCE
+  ---------------------------------------
+
+==> Java Developer @ Sense Infosys % Apr 2018 - May 2019 <==
+
++ Develop & maintain APIs such as ‘Entity Extractor’,
+‘Sentiment Analysis’, ‘Topic Modelling’, ‘Entity Resolution’,
+‘Tagging’, etc.
++ Develop K-Admin which manage configuration, provide
+admin level tasks for Klaver 2 ( https://klaver.online )
+
+
 ```
