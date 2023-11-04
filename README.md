@@ -33,7 +33,7 @@
   ---------------------------------------
 
 
-==> Professional Competitor @ Kaggle  %  Nov 2019 - Now <==
+==> Professional Competitor @ Kaggle  %  Nov 2023 - Present <==
     ---------------------------------------
 
 + Compete in selected competitions in order to horn skills
