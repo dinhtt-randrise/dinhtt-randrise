@@ -38,10 +38,12 @@
 + Compete in selected competitions in order to horn skills
 in machine learning
 
+
 ==> Beginner Competitor @ Kaggle  %  June 2019 - Nov 2023 <==
 
 + Study and compete in many competitions about optimization, prediction,
 object detection, etc.
+
 
 ==> Java Developer @ Sense Infosys  %  Apr 2018 - May 2019 <==
 
