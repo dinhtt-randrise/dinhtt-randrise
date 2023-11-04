@@ -16,7 +16,7 @@
 
 + Email: dinhtt@randrise.com
 + Tel: +84-28-4458-1450
-+ Web: http://dinhtt.randrise.com
++ E-CV: http://dinhtt.randrise.com
 
 
 ============================================
