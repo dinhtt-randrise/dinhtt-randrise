@@ -5,10 +5,10 @@
  / _` | | '_ \| '_ \| __| __|
 | (_| | | | | | | | | |_| |_ 
  \__,_|_|_| |_|_| |_|\__|\__| @ randrise.com
+--------------------------------------------
+     Dinh Thoai Tran @ randrise.com
+--------------------------------------------
 
---------------------------------------------
-    Dinh Thoai Tran @ randrise.com
---------------------------------------------
 
 ============================================
            CONTACT INFORMATION
@@ -18,6 +18,7 @@
 + Tel: +84-28-4458-1450
 + Web: http://dinhtt.randrise.com
 
+
 ============================================
             LOOKING FOR ...
   ---------------------------------------
@@ -26,9 +27,11 @@
 
 + Remote or nearby Ho Chi Minh city, Vietnam
 
+
 ============================================
               EXPERIENCE
   ---------------------------------------
+
 
 ==> Java Developer @ Sense Infosys  %  Apr 2018 - May 2019 <==
 
@@ -38,17 +41,20 @@
 + Develop K-Admin which manage configuration, provide admin level tasks 
 for Klaver 2 ( https://klaver.online )
 
+
 ==> Senior Salesforce Developer @ Transcosmos Technologic Arts  %  Jun 2017 - Jan 2018 <==
 
 + Configured and gained experience in Service Cloud (LiveAgent, Call Center,
 Voice Chatbot, Email & Chatter Channels, etc.), Sales Cloud,
 Community Cloud, Pardot
 
+
 ==> Consultant @ Capgemini Vietnam  %  Oct 2016 - Jun 2017 <==
 
 + Hold “Salesforce Certified Platform App Builder”, “
 Salesforce Certified Platform Developer I”,
 “Salesforce Certified Administrator” certifications.
+
 
 ==> Java Developer @ Athena Pros  %  May 2010 - Jul 2016 <==
 
@@ -58,6 +64,7 @@ migrating problems, search engine building, Lotus Notes API, Salesforce API
 and Azure Search API.
 
 + Developed CommitKeeper, a Salesforce application for project management.
+
 
 ==> Programmer @ Data Design Vietnam  %  Jul 2007 - Sep 2008 <==
 
@@ -71,6 +78,7 @@ Excel file (Cosmo Engineering project)
 sending (Kimado - MailGO)
 
 + Gained experience in programming C# with test driven development (TDD)
+
 
 ==> Programmer @ Asia Pacific Solutions  %  Jan 2005 - Apr 2007 <==
 
