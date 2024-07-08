@@ -19,6 +19,7 @@
 + E-CV: http://dinhtt.randrise.com
 + Kaggle: https://www.kaggle.com/dinhttrandrise
 + GitHub: https://github.com/dinhtt-randrise
++ LinkedIn: https://www.linkedin.com/in/dinhtt-randrise
 
 
 ============================================
