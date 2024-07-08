@@ -28,6 +28,7 @@
 + Machine Learning Engineer position
 
 + Remote or nearby Ho Chi Minh city, Vietnam
+or nearby Virginia Beach, VA, USA
 
 
 ============================================
