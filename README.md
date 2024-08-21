@@ -37,14 +37,20 @@ or nearby Virginia Beach, VA, USA
   ---------------------------------------
 
 
-==> 8. Professional Competitor @ Kaggle  %  Nov 2023 - Present <==
+==> 9. Freelance Developer @ Fiverr  %  Aug 2024 - Present <==
+    ---------------------------------------
+
++ Work on 'Takotes AI' project and sell 'Dedicated ID' for dedicated CPU to take notes from a lecture on Internet
+
+	
+==> 8. Professional Competitor @ Kaggle  %  Nov 2023 - Aug 2024 <==
     ---------------------------------------
 
 + Compete in selected competitions in order to horn skills
 in machine learning
 
 
-==> 7. Beginner Competitor @ Kaggle  %  June 2019 - Nov 2023 <==
+==> 7. Beginner Competitor @ Kaggle  %  Jun 2019 - Nov 2023 <==
     ---------------------------------------
 
 + Study and compete in many competitions about optimization, prediction,
