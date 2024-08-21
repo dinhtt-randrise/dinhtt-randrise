@@ -131,4 +131,60 @@ a Japanese document management system
     ---------------------------------------
 
 
+============================================
+            RECENT PROJECTS
+  ---------------------------------------
+
+
+==> 2. Takotes AI (takotesai.com) <==
+    ---------------------------------------
+
++ Company: "Personal Project"
+
++ Timeline: July 18, 2024 - Present
+
++ Technologies: Python, openai-whisper, SpeechRecognition, yake, vncorenlp, nltk
+
++ Website: https://takotesai.com
+
++ Introduction:
+ o Goal: The goal of the project is to provide online service for taking notes from a lecture on Internet.
+ o Current Supports: English & Vietnamese. YouTube & DailyMotion.
+ o Future Plan: 
+   1. Take notes from screens
+   2. Support more video/audio platforms
+   3. Support more languages (Japanese, Chinese, Korean, etc.)	
+   4. Build LLM model and publish on HuggingFace
+
+
+==> 1. LAL-24: PII Data Detection <==
+    ---------------------------------------
+
++ Company: The Learning Agency Lab
+
++ Timeline: Jan 17, 2024 - Apr 23, 2024
+
++ Technologies: Python, Spacy, Pandas
+
++ Team Name: dinhtt-randrise
+
++ Introduction:
+ o Goal: The goal of the competition is to develop a model that 
+detects personally identifiable information (PII) in student writing.
+ o Efficiency Prize: They are hosting a second track that 
+focuses on model efficiency, because highly accurate models are 
+often computationally heavy. Such models have a stronger carbon footprint 
+and frequently prove difficult to utilize in real-world educational contexts. 
+They hope to use these models to help educational organizations that 
+have limited computational capabilities.
+	  
++ My Gains:
+ o 5th rank of Efficiency LB (Public Score: 0.930)
+
++ Efficiency LB: https://www.kaggle.com/code/ryanholbrook/pii-detection-efficiency-lb
+
++ Kaggle Competition: https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data
+
+
+
 ```
