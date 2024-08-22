@@ -15,7 +15,7 @@
   ---------------------------------------
 
 + Email: dinhtt@randrise.com
-+ Tel: +1-757-288-6976
++ Tel: +1-757-603-3524
 + E-CV: http://dinhtt.randrise.com
 + Kaggle: https://www.kaggle.com/dinhttrandrise
 + GitHub: https://github.com/dinhtt-randrise
