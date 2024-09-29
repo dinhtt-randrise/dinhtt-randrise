@@ -135,9 +135,27 @@ a Japanese document management system
   ---------------------------------------
 
 
-==> 2. Takotes AI (takotesai.com) <==
+==> 3. randrise.com - Applied Randomized Simulation <==
     ---------------------------------------
 
++ Company: "Personal Project"
+
++ Timeline: Apr 2023 - Present
+
++ Technologies: Python, Randomized Simulation
+
++ Role:
+ o Applies randomized simulation to predict, buy and track lottery. 
+ o Supports Cash 4 Life (VALottery), Win For Life (Oregon Lottery), 
+Power Ball (VALottery, Oregon Lottery) and Mega Millions 
+(VALottery, Oregon Lottery).
+
++ Website: http://randrise.com
+
+	
+==> 2. Takotes AI (takotesai.com) <==
+    ---------------------------------------
+	
 + Company: "Personal Project"
 
 + Timeline: July 18, 2024 - Present
@@ -150,10 +168,15 @@ a Japanese document management system
  o Goal: The goal of the project is to provide online service for taking notes from a lecture on Internet.
  o Current Supports: English & Vietnamese. YouTube & DailyMotion.
  o Future Plan: 
-   1. Take notes from screens
-   2. Support more video/audio platforms
-   3. Support more languages (Japanese, Chinese, Korean, etc.)	
-   4. Build LLM model and publish on HuggingFace
+   1. Improve and master related technologies:
+     - Text segmentation (Topic segmentation)
+     - Keyword extraction
+     - Video transcription
+     - Question generation
+   2. Take notes from screens	
+   3. Support more video/audio platforms
+   4. Support more languages (Japanese, Chinese, Korean, etc.)	
+   5. Build LLM model and publish on HuggingFace
 
 
 ==> 1. LAL-24: PII Data Detection <==
@@ -183,7 +206,6 @@ have limited computational capabilities.
 + Efficiency LB: https://www.kaggle.com/code/ryanholbrook/pii-detection-efficiency-lb
 
 + Kaggle Competition: https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data
-
 
 
 ```
