@@ -36,7 +36,13 @@
   ---------------------------------------
 
 
-==> 9. Freelance Developer @ Fiverr  %  Aug 2024 - Present <==
+==> 10. Seasonal Sortation Associate @ Amazon (DPD8)  %  Oct 2024 - Present <==
+    ---------------------------------------
+
++ Work as 'Stow', 'P2B', 'Divert' roles in Amazon Warehouse
+
+
+==> 9. Freelance Developer @ Fiverr  %  Aug 2024 - Oct 2024 <==
     ---------------------------------------
 
 + Work on 'Takotes AI' project and sell 'Dedicated ID' for dedicated CPU to take notes from a lecture on Internet
@@ -133,6 +139,23 @@ a Japanese document management system
 ============================================
             RECENT PROJECTS
   ---------------------------------------
+
+
+==> 4. Randife: Future Predictor (w/ Random Simulating) <==
+    ---------------------------------------
+
++ Company: "Research Project"
+
++ Timeline: Mar 2025 - Present
+
++ Technologies: Python, Random Simulating, Optimized Pairing
+
++ Role:
+ o Applies random simulating and optimized pairing to predict future. 
+ o Work with sample applications (Oregon Lottery - Pick 4 drawing,
+   Power Ball drawing, etc.) to develop algorithms
+
++ Website: https://randife.com
 
 
 ==> 3. randrise.com - Applied Randomized Simulation <==
