@@ -36,26 +36,13 @@
   ---------------------------------------
 
 
-==> 10. Seasonal Sortation Associate @ Amazon (DPD8)  %  Oct 2024 - Present <==
+==> 8. Seasonal Sortation Associate @ Amazon (DPD8)  %  Oct 2024 - Present <==
     ---------------------------------------
 
 + Work as 'Stow', 'P2B', 'Divert' roles in Amazon Warehouse
 
 
-==> 9. Freelance Developer @ Fiverr  %  Aug 2024 - Oct 2024 <==
-    ---------------------------------------
-
-+ Work on 'Takotes AI' project and sell 'Dedicated ID' for dedicated CPU to take notes from a lecture on Internet
-
-	
-==> 8. Professional Competitor @ Kaggle  %  Nov 2023 - Aug 2024 <==
-    ---------------------------------------
-
-+ Compete in selected competitions in order to horn skills
-in machine learning
-
-
-==> 7. Beginner Competitor @ Kaggle  %  Jun 2019 - Nov 2023 <==
+==> 7. Competitor @ Kaggle  %  Jun 2019 - Oct 2024 <==
     ---------------------------------------
 
 + Study and compete in many competitions about optimization, prediction,
@@ -141,7 +128,7 @@ a Japanese document management system
   ---------------------------------------
 
 
-==> 4. Randife: Future Predictor (w/ Random Simulating) <==
+==> 3. Randife: Future Predictor (w/ Random Simulating) <==
     ---------------------------------------
 
 + Company: "Research Project"
@@ -158,48 +145,20 @@ a Japanese document management system
 + Website: https://randife.com
 
 
-==> 3. randrise.com - Applied Randomized Simulation <==
+==> 2. orottick4.com : Oregon Lottery - Pick 4 Predictor <==
     ---------------------------------------
 
-+ Company: "Personal Project"
++ Company: "Research Project"
 
-+ Timeline: Apr 2023 - Present
++ Timeline: Mar 2025 - Present
 
-+ Technologies: Python, Randomized Simulation
++ Technologies: Python, Random Simulating, Optimized Pairing
 
 + Role:
- o Applies randomized simulation to predict, buy and track lottery. 
- o Supports Cash 4 Life (VALottery), Win For Life (Oregon Lottery), 
-Power Ball (VALottery, Oregon Lottery) and Mega Millions 
-(VALottery, Oregon Lottery).
+ o Applies random simulating and optimized pairing to predict Oregon Lottery - Pick 4. 
+ o Simulate, buy and track Oregon Lottery - Pick 4.
 
-+ Website: http://randrise.com
-
-	
-==> 2. Takotes AI (takotesai.com) <==
-    ---------------------------------------
-	
-+ Company: "Personal Project"
-
-+ Timeline: July 18, 2024 - Present
-
-+ Technologies: Python, openai-whisper, SpeechRecognition, yake, vncorenlp, nltk
-
-+ Website: https://takotesai.com
-
-+ Introduction:
- o Goal: The goal of the project is to provide online service for taking notes from a lecture on Internet.
- o Current Supports: English & Vietnamese. YouTube & DailyMotion.
- o Future Plan: 
-   1. Improve and master related technologies:
-     - Text segmentation (Topic segmentation)
-     - Keyword extraction
-     - Video transcription
-     - Question generation
-   2. Take notes from screens	
-   3. Support more video/audio platforms
-   4. Support more languages (Japanese, Chinese, Korean, etc.)	
-   5. Build LLM model and publish on HuggingFace
++ Website: https://orottick4.com
 
 
 ==> 1. LAL-24: PII Data Detection <==
