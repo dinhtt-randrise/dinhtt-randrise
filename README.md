@@ -145,7 +145,7 @@ a Japanese document management system
 + Website: https://randife.com
 
 
-==> 2. orottick4.com : Oregon Lottery - Pick 4 Predictor <==
+==> 2. Orottick4: Oregon Lottery - Pick 4 Predictor <==
     ---------------------------------------
 
 + Company: "Research Project"
